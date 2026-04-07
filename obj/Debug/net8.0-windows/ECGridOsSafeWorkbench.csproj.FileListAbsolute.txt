@@ -1,0 +1,17 @@
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ecgridapp.ico
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ecgridapp.png
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\README.txt
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ECGridOsSafeWorkbench.exe
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ECGridOsSafeWorkbench.deps.json
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ECGridOsSafeWorkbench.runtimeconfig.json
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ECGridOsSafeWorkbench.dll
+D:\Projects\ECGridTest\bin\Debug\net8.0-windows\ECGridOsSafeWorkbench.pdb
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.AssemblyInfoInputs.cache
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.AssemblyInfo.cs
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.csproj.CoreCompileInputs.cache
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.dll
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\refint\ECGridOsSafeWorkbench.dll
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.pdb
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ECGridOsSafeWorkbench.genruntimeconfig.cache
+D:\Projects\ECGridTest\obj\Debug\net8.0-windows\ref\ECGridOsSafeWorkbench.dll
